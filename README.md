@@ -2,7 +2,7 @@
 
 ### AI Engineer | Full-Stack Developer | Generative AI
 
-I'm a Computer Engineering graduate/final-year Computer Engineering student focused on building
+I'm a Computer Engineering graduate focused on building
 AI-powered systems and full-stack products.
 
 I enjoy taking an idea from problem → architecture → implementation → deployment.
